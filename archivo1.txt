@@ -4,3 +4,4 @@ del archivo 1
 19190515
 dos lineas
 creadas
+edicion archivo 1
